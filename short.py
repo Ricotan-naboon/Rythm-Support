@@ -15,3 +15,4 @@ async def on_message(message):
         await message.channel.send(rep)
         await message.author.guild.voice_client.disconnect()
         
+client.run(For-login.TOKEN)
